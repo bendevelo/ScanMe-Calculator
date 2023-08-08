@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/primer"
+    android:layout_height="wrap_content">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="200dp"
+        app:lottie_url="https://lottie.host/ad443049-37ce-4cdc-84d9-0fbbce8b0fbd/oV9dPw9rgV.json"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:layout_height="250dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:fontFamily="@font/poppinsemibold"
+        android:text="Terjadi Error Akurasi Scan"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:layout_marginHorizontal="3dp"
+        android:layout_height="wrap_content"
+        android:text="@string/erroralert"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        />
+
+
+</LinearLayout>

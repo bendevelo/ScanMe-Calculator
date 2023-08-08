@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScanMe Calculator</string>
+    <string name="number_recognition">ScanMe Calculator</string>
+    <string name="explainApps">Adalah aplikasi Aritmatika sederhana yang dapat melakukan operasi seperti tambah (+) ,kurang (-), bagi (/) antara 2 bilangan, dengan cara melakukan scan terhadap gambar yang mengandung angka dan operator kemudian melakukan operasi aritmatik secara otomatis</string>
+    <string name="erroralert">Mohon untuk melakukan scan ulang pastikan latar belakang berwarna putih dan tanpa objek lain sama sekali, dan dengan tulisan yang jelas</string>
+</resources>

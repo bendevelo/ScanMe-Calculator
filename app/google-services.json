@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "223386495971",
+    "project_id": "numberrecognition-f77a8",
+    "storage_bucket": "numberrecognition-f77a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223386495971:android:032b2cd7f3e17382a8ced6",
+        "android_client_info": {
+          "package_name": "com.sgn.greenbuiltincamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_gcvDqRdVIfIZioY2WWqHSI_2J86d4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223386495971:android:8b72b049352edcaaa8ced6",
+        "android_client_info": {
+          "package_name": "com.sgn.greenfilesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_gcvDqRdVIfIZioY2WWqHSI_2J86d4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223386495971:android:a8d734d0aa19529ba8ced6",
+        "android_client_info": {
+          "package_name": "com.sgn.numberrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_gcvDqRdVIfIZioY2WWqHSI_2J86d4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223386495971:android:3cdcf8a28e495e5fa8ced6",
+        "android_client_info": {
+          "package_name": "com.sgn.redbuiltincamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_gcvDqRdVIfIZioY2WWqHSI_2J86d4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223386495971:android:443358ad9161df8da8ced6",
+        "android_client_info": {
+          "package_name": "com.sgn.redfilesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_gcvDqRdVIfIZioY2WWqHSI_2J86d4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223386495971-sku2jvsdq7gasn401to7qs77jlj17gkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
