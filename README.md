@@ -5,4 +5,25 @@ dengan cara melakukan scan terhadap gambar yang mengandung angka dan operator ke
 (Eng)
 Is a simple Arithmetic application that can perform operations such as add (+), subtract (-), divide (/) between 2 numbers,
 by scanning images containing numbers and operators and then performing arithmetic operations automatically
+
+# Tech
+- Kotlin
+- FIrebase ML Vision
+- View Binding
+- Material design
+
+# Disclaimer
+low level of accuracy
+
    
+![WhatsApp Image 2023-08-08 at 08 56 13](https://github.com/bendevelo/ScanMe-Calculator/assets/141692300/3b669dbf-1375-44fc-9f2e-f055567d0d85)
+
+
+![WhatsApp Image 2023-08-08 at 08 56 12](https://github.com/bendevelo/ScanMe-Calculator/assets/141692300/c76f1f36-d659-4256-861e-17cbf7f9ac3a)
+
+
+![WhatsApp Image 2023-08-08 at 08 56 12 (1)](https://github.com/bendevelo/ScanMe-Calculator/assets/141692300/3f2b1ccf-0b5f-4c0d-9115-c002fc3eb4f6)
+
+
+
+![WhatsApp Image 2023-08-08 at 08 56 11](https://github.com/bendevelo/ScanMe-Calculator/assets/141692300/fd496c60-b55f-4406-a3bc-7fb1a0417442)
